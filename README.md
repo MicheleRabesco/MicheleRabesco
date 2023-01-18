@@ -8,5 +8,5 @@
   <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabescot" />
+  <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabesco" />
 </a>
