@@ -6,7 +6,7 @@
 ### Technologies
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,mysql,mongodb,raspberrypi,arduino,)](https://skillicons.dev)
 ###
-
+<!---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,)](https://skillicons.dev)
 ###
