@@ -1,25 +1,36 @@
 ### About me
-<a href="https://github.com/MicheleRabesco/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
+<p>
+    <a href="https://github.com/MicheleRabesco/github-readme-stats">
+        <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox" />
+    </a>
+</p>
+
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,mysql,mongodb,raspberrypi,arduino,)](https://skillicons.dev)
-###
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,mongodb,raspberrypi,arduino,)](https://skillicons.dev)
+
 <!---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,mysql,html,)](https://skillicons.dev)
 ###
-<!--- 
+--->
+
+
+
 ### Social Media
 <p>
-<a href="https://www.linkedin.com/in/michelerabesco/">
-    <img height="50" src="https://skillicons.dev/icons?i=linkedin,https://skillicons.dev"/>
-</a>
-<a href="https://www.instagram.com/michelerabesco/">
-    <img height="50" src="https://skillicons.dev/icons?i=instagram,https://skillicons.dev"/>
-</a>
+    <a href="https://www.linkedin.com/in/michelerabesco/">
+        <img height="50" src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+    <a href="https://www.instagram.com/michelerabesco/">
+        <img height="50" src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
+    <a href="https://github.com/MicheleRabesco">
+        <img height="50" src="https://skillicons.dev/icons?i=github"/>
+    </a>
 </p>
+
+
 
 
 <!---
