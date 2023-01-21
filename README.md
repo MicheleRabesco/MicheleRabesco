@@ -51,10 +51,9 @@ This works, I have to find a way to fix it
 </a>
 --->
 
-<!---
+
 ### Wakatime Stats
 <a href="https://github.com/MicheleRabesco/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabesco"/>
+  <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabesco&v=2"/>
 </a>
 
---->
