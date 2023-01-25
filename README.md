@@ -1,7 +1,7 @@
 ### About me
 <p>
     <a href="https://github.com/MicheleRabesco/github-readme-stats">
-        <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox" />
+        <img style="text-align:center;" alt="githubStats" src="https://github-readme-stats-nu-self-16.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
     </a>
 </p>
 
@@ -20,13 +20,13 @@
 ### Social Media
 <p>
     <a href="https://www.linkedin.com/in/michelerabesco/">
-        <img height="50" src="https://skillicons.dev/icons?i=linkedin"/>
+        <img alt="linkedin" height="50" src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
     <a href="https://www.instagram.com/michelerabesco/">
-        <img height="50" src="https://skillicons.dev/icons?i=instagram"/>
+        <img alt="instagram" height="50" src="https://skillicons.dev/icons?i=instagram"/>
     </a>
     <a href="https://github.com/MicheleRabesco">
-        <img height="50" src="https://skillicons.dev/icons?i=github"/>
+        <img alt="github" height="50" src="https://skillicons.dev/icons?i=github"/>
     </a>
 </p>
 
@@ -65,6 +65,5 @@ This works, I have to find a way to fix it
 
 ### Wakatime Stats
 <a href="https://github.com/MicheleRabesco/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabesco&v=2"/>
+  <img style="text-align:center;" alt="wakatime" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabesco&v=2&langs_count=10&layout=compact&hide_border=true&theme=gruvbox"/>
 </a>
-
