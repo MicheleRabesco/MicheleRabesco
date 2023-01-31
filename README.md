@@ -4,7 +4,7 @@
         <img style="text-align:center;" alt="githubStats" src="https://github-readme-stats-nu-self-16.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
     </a>
     <a href="https://github.com/MicheleRabesco/github-readme-stats/api/top-langs">
-        <img style="text-align:center;" alt="githubStats" src="https://github-readme-stats-nu-self-16.vercel.app/api/top-langs/?username=MicheleRabesco&layout=compact&theme=gruvbox&hide_border=true" />
+        <img style="text-align:center;" alt="githubStats" src="https://github-readme-stats-nu-self-16.vercel.app/api/top-langs/?username=MicheleRabesco&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" />
     </a>
 </p>
 
@@ -25,8 +25,10 @@
     </a>
 </p>
 
+<!---
 ### Wakatime Stats
 <a href="https://github.com/MicheleRabesco/github-readme-stats">
   <img style="text-align:center;" alt="wakatime" src="https://github-readme-stats-nu-self-16.vercel.app/api/wakatime?username=@MicheleRabesco&v=2
-&langs_count=15&layout=compact&hide_border=true&theme=gruvbox"/>
+&langs_count=15&hide_border=true&theme=gruvbox&hide=markdown, gitignore file, eclipse, idea_module, properties, git&layout=compact"/>
 </a>
+--->
