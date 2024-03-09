@@ -1,8 +1,10 @@
 ### About me
 <p>
+    <!--
     <a href="https://github.com/MicheleRabesco/github-readme-stats">
         <img style="text-align:center;" alt="githubStats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MicheleRabesco&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
     </a>
+    -->
     <a href="https://github.com/MicheleRabesco/github-readme-stats/api/top-langs">
         <img style="text-align:center;" alt="githubStats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MicheleRabesco&layout=compact&theme=gruvbox&hide_border=true" />
     </a>
