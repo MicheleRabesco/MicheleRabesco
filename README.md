@@ -14,7 +14,7 @@
 ![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,flask,hive,hadoop)
 
 ### Development
-![My Skills](https://skillicons.dev/icons?i=java,python,mysql,postgresql,mongodb,pyspark,c,)
+![My Skills](https://skillicons.dev/icons?i=java,python,mysql,postgresql,mongodb,c,)
 
 
 ### Social Media
