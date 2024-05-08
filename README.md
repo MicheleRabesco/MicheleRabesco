@@ -11,7 +11,10 @@
 </p>
 
 ### Technologies
-![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,mongodb,raspberrypi,arduino,)
+![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,flask,hive,hadoop)
+
+### Development
+![My Skills](https://skillicons.dev/icons?i=java,python,mysql,postgresql,mongodb,pyspark,c,)
 
 
 ### Social Media
